@@ -1,0 +1,12 @@
+.foodList{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowwrap;
+}
+.food-attributes{
+    flex-basis:auto;
+    flex-grow:1;
+    border:palevioletred solid .1em;
+    padding: .5em;
+    margin: .5em;
+}

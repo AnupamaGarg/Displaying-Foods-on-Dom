@@ -1,0 +1,58 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 2,
+      "name": "Massaman curry",
+      "type": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "type": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "type": "vegetarian",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "Gulab-Jamun",
+      "type": "Sweet",
+      "ethnicity": "Indian",
+      "id": 6
+    },
+    {
+      "name": "Panner-Curry",
+      "type": "Food",
+      "ethnicity": "Indian",
+      "id": 7
+    },
+    {
+      "name": "Biryani",
+      "type": "rice",
+      "ethnicity": "Indian",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Hakka-Noodles",
+      "type": "Noodles",
+      "ethnicity": "Chinees"
+    }
+  ]
+}
